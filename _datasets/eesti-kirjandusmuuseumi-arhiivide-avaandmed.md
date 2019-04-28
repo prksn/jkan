@@ -3,12 +3,14 @@ schema: default
 title: Eesti Kirjandusmuuseumi arhiivide avaandmed
 title_en: Estonian Literary Museum Archives
 notes: "Eesti Kirjandusmuuseumi (EKM) kogud hõlmavad Eesti rahvaluulet, kirjakultuuri ja kultuurilugu käsitlevaid materjale. Ulatuslike kogude avaandmetena kirjeldamine ja kättesaadavaks tegemine on pidev protsess ning andmed on kättesaadavad veebiteenuse kaudu. 
-Eesti Kirjandusmuuseum koosneb:
+Eesti Kirjandusmuuseum koosneb
 Arhiivraamatukogust (lühend EKM AR), 
 Eesti Rahvaluule Arhiivist (lühend EKM ERA), 
 Eesti Kultuuriloolisest Arhiivist (lühend EKM EKLA),
 folkloristika osakonnast (lühend EKM FO).
-PÕHIMÄÄRUS: https://www.riigiteataja.ee/akt/107032017012"
+PÕHIMÄÄRUS: https://www.riigiteataja.ee/akt/107032017012.
+Muu avalik teave asub lehel http://www.kirmus.ee/est/info/avalik-teave/.
+Projekti "Eesti Keeleressursside Keskuse (EKRK) ühendatud sisuotsing" käigus avalikuks tehtud EKMi keeleressursid on leitavad veebilehelt https://metashare.ut.ee/repository/search/?q=Eesti+Kirjandusmuuseum 
 notes_en: ''
 department: ''
 category:
@@ -27,5 +29,5 @@ date_modified: 2019/04/28
 organization: Eesti Kirjandusmuuseum
 maintainer_name: Siiri Pärkson
 maintainer_email: siiri.parkson@kirmus.ee
-maintainer_phone: ''
+maintainer_phone: +372 737 7700 (asutuse üldinfo)
 ---
