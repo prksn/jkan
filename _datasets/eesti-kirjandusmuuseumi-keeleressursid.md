@@ -18,6 +18,9 @@ resources:
     url: 'https://metashare.ut.ee/repository/search/?q=Eesti+Kirjandusmuuseum'
     format: HTML
     interactive: 'True'
+    url: 'http://doi.org/10.15155/9-00-0000-0000-0000-00086L'
+    format: HTML
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode'
 update_freq: ''
 date_issued: 2019/06/27
