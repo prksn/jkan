@@ -2,7 +2,7 @@
 schema: default
 title: Eesti Kirjandusmuuseumi keeleressursid 
 title_en: Language Resources of Estonian Literary Museum 
-notes: "Eesti Kirjandusmuuseum (EKM) on Eesti Keeleressursside Keskuse (EKRK, https://keeleressursid.ee/et/eesti-keeleressursside-keskus) 
+notes: "Eesti Kirjandusmuuseum (EKM) on Eesti Keeleressursside Keskuse (EKRK, <a href="https://keeleressursid.ee/et/eesti-keeleressursside-keskus" target="_blank" rel="noopener">https://keeleressursid.ee/et/eesti-keeleressursside-keskus</a></p>) 
 konsortsiumliige. EKRK failirepositooriumis Metashare.ut.ee on registreeritud ja kättesaadavaks tehtud mitmeid Eesti Kirjandusmuuseumi 
 kogude materjale, nagu näiteks Eesti mõistatused, Kodavere pajatused, anekdoodid, Eesti 1920ndate aastate kirjanduskriitikakorpus. Erinevatel resurssidel on erinevad litsentsid ja neist tulenevad kasutuspiirangud."
 notes_en: 'Estonian Literary Museum is the partner of Center of Estonian Language Resources (CELR, https://keeleressursid.ee/en/).
